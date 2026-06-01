@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🛍️ STOREWALLAH
 
 A modern, responsive e-commerce frontend application built with **React**, **Vite**, and **Tailwind CSS**.
+
+</div>
 
 ---
 
@@ -141,6 +145,8 @@ npm run preview
 
 ## 🧑‍💻 Author
 
+<div align="center">
+
 **Suyash Srivastava**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@srivastavsuyash-black?logo=github)](https://github.com/srivastavsuyash)
@@ -151,3 +157,5 @@ npm run preview
 ⭐ If you found this project helpful, please give it a star! ⭐
 
 > Made with ❤️ by Suyash Srivastava
+
+</div>
